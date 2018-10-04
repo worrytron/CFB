@@ -1,0 +1,1834 @@
+---
+team       : Nothing University
+os_safe    : Nothing_University
+tricode    : BLANK
+mascot     : Voids
+primary    : [0,0,0]
+secondary  : [255,255,255]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 0
+sky        : 01
+sign       : A
+...
+---
+team       : Air Force
+os_safe    : Air_Force
+tricode    : AFA
+mascot     : Falcons
+primary    : [0,97,170]
+secondary  : [235,235,235]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 5
+sky        : 03
+sign       : A
+...
+---
+team       : Akron
+os_safe    : Akron
+tricode    : AKR
+mascot     : Zips
+primary    : [20,33,78]
+secondary  : [175,154,103]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : A
+...
+---
+team       : Alabama
+os_safe    : Alabama
+tricode    : ALA
+mascot     : Crimson Tide
+primary    : [155,5,46]
+secondary  : [235,235,235]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 11
+sky        : 03
+sign       : A
+...
+---
+team       : Alabama Birmingham
+os_safe    : Alabama_Birmingham
+tricode    : UAB
+mascot     : Blazers
+primary    : [0,117,80]
+secondary  : [255,200,69]
+billboard  : 0
+neon       : 1
+conference : C-USA
+matte      : 11
+sky        : 03
+sign       : C
+...
+---
+team       : Appalachian State
+os_safe    : Appalachian_State
+tricode    : APP
+mascot     : Mountaineers
+primary    : [35,31,32]
+secondary  : [243,176,0]
+billboard   : 1
+neon       : 1
+conference : Sun Belt
+matte      : 13
+sky        : 04
+sign       : A
+...
+---
+team       : Arizona
+os_safe    : Arizona
+tricode    : ARIZ
+mascot     : Wildcats
+primary    : [1,1,87]
+secondary  : [169,0,0]
+billboard   : 1
+neon       : 1
+conference : Pac-12
+matte      : 4
+sky        : 01
+sign       : A
+...
+---
+team       : Arizona State
+os_safe    : Arizona_State
+tricode    : ASU
+mascot     : Sun Devils
+primary    : [115,15,36]
+secondary  : [252,178,27]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 4
+sky        : 01
+sign       : C
+...
+---
+team       : Arkansas
+os_safe    : Arkansas
+tricode    : ARK
+mascot     : Razorbacks
+primary    : [199,16,61]
+secondary  : [235,235,235]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 11
+sky        : 03
+sign       : B
+...
+---
+team       : Arkansas State
+os_safe    : Arkansas_State
+tricode    : ARST
+mascot     : Red Wolves
+primary    : [182,17,49]
+secondary  : [0,0,0]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 11
+sky        : 03
+sign       : B
+...
+---
+team       : Army
+os_safe    : Army
+tricode    : ARMY
+mascot     : Black Knights
+primary    : [160,150,89]
+secondary  : [35,32,32]
+billboard   : 0
+neon       : 1
+conference : Independent
+matte      : 15
+sky        : 03
+sign       : B
+...
+---
+team       : Auburn
+os_safe    : Auburn
+tricode    : AUB
+mascot     : Tigers
+primary    : [16,23,61]
+secondary  : [235,87,23]
+billboard   : 1
+neon       : 1
+conference : SEC
+matte      : 12
+sky        : 01
+sign       : B
+...
+---
+team       : Ball State
+os_safe    : Ball_State
+tricode    : BALL
+mascot     : Cardinals
+primary    : [168,0,0]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : B
+...
+---
+team       : Baylor
+os_safe    : Baylor
+tricode    : BAY
+mascot     : Bears
+primary    : [8,73,51]
+secondary  : [253,198,0]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 6
+sky        : 03
+sign       : B
+...
+---
+team       : Boise State
+os_safe    : Boise_State
+tricode    : BSU
+mascot     : Broncos
+primary    : [0,75,147]
+secondary  : [225,111,56]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 5
+sky        : 03
+sign       : B
+...
+---
+team       : Boston College
+os_safe    : Boston_College
+tricode    : BC
+mascot     : Eagles
+primary    : [133,0,0]
+secondary  : [186,163,87]
+billboard  : 1
+neon       : 1
+conference : ACC
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : Bowling Green
+os_safe    : Bowling_Green
+tricode    : BGSU
+mascot     : Falcons
+primary    : [78,35,16]
+secondary  : [235,121,63]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : A
+...
+---
+team       : Buffalo
+os_safe    : Buffalo
+tricode    : BUFF
+mascot     : Bulls
+primary    : [0,100,172]
+secondary  : [175,175,176]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : BYU
+os_safe    : BYU
+tricode    : BYU
+mascot     : Cougars
+primary    : [41,56,88]
+secondary  : [235,235,235]
+billboard   : 0
+neon       : 1
+conference : Independent
+matte      : 5
+sky        : 03
+sign       : B
+...
+---
+team       : California
+os_safe    : California
+tricode    : CAL
+mascot     : Golden Bears
+primary    : [0,0,81]
+secondary  : [243,176,0]
+billboard   : 1
+neon       : 1
+conference : Pac-12
+matte      : 2
+sky        : 03
+sign       : B
+...
+---
+team       : Central Florida
+os_safe    : Central_Florida
+tricode    : UCF
+mascot     : Knights
+primary    : [32,29,29]
+secondary  : [166,140,83]
+billboard   : 1
+neon       : 1
+conference : American
+matte      : 16
+sky        : 03
+sign       : A
+...
+---
+team       : Central Michigan
+os_safe    : Central_Michigan
+tricode    : CMU
+mascot     : Chippewas
+primary    : [126,35,57]
+secondary  : [229,191,28]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 8
+sky        : 01
+sign       : A
+...
+---
+team       : Charlotte
+os_safe    : Charlotte
+tricode    : CHA
+mascot     : 49ers
+primary    : [7,77,52]
+secondary  : [145,114,52]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 13
+sky        : 04
+sign       : C
+...
+---
+team       : Cincinnati
+os_safe    : Cincinnati
+tricode    : CIN
+mascot     : Bearcats
+primary    : [15,15,15]
+secondary  : [182,17,49]
+billboard   : 1
+neon       : 1
+conference : American
+matte      : 10
+sky        : 04
+sign       : B
+...
+---
+team       : Clemson
+os_safe    : Clemson
+tricode    : CLEM
+mascot     : Tigers
+primary    : [255,99,0]
+secondary  : [235,235,235]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 11
+sky        : 03
+sign       : A
+...
+---
+team       : Coastal Carolina University
+os_safe    : Coastal_Carolina_University
+tricode    : CCU
+mascot     : Chanticleers
+primary    : [0,113,120]
+secondary  : [146,109,77]
+billboard   : 0
+neon       : 0
+conference : Sun Belt
+matte      : 11
+sky        : 03
+sign       : A
+...
+---
+team       : Colorado
+os_safe    : Colorado
+tricode    : COLO
+mascot     : Buffaloes
+primary    : [16,16,23]
+secondary  : [160,150,89]
+billboard   : 1
+neon       : 1
+conference : Pac-12
+matte      : 5
+sky        : 03
+sign       : C
+...
+---
+team       : Colorado State
+os_safe    : Colorado_State
+tricode    : CSU
+mascot     : Rams
+primary    : [27,62,27]
+secondary  : [229,169,33]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 5
+sky        : 03
+sign       : B
+...
+---
+team       : Connecticut
+os_safe    : Connecticut
+tricode    : CONN
+mascot     : Huskies
+primary    : [0,40,89]
+secondary  : [245,245,245]
+billboard   : 0
+neon       : 1
+conference : American
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : Duke
+os_safe    : Duke
+tricode    : DUKE
+mascot     : Blue Devils
+primary    : [38,59,128]
+secondary  : [38,59,128]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 14
+sky        : 01
+sign       : C
+...
+---
+team       : East Carolina
+os_safe    : East_Carolina
+tricode    : ECU
+mascot     : Pirates
+primary    : [58,21,108]
+secondary  : [255,222,0]
+billboard   : 0
+neon       : 1
+conference : American
+matte      : 14
+sky        : 01
+sign       : A
+...
+---
+team       : Eastern Michigan
+os_safe    : Eastern_Michigan
+tricode    : EMU
+mascot     : Eagles
+primary    : [11,59,13]
+secondary  : [171,180,188]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 8
+sky        : 01
+sign       : B
+...
+---
+team       : Florida
+os_safe    : Florida
+tricode    : FLA
+mascot     : Gators
+primary    : [13,41,114]
+secondary  : [245,72,0]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 12
+sky        : 01
+sign       : A
+...
+---
+team       : Florida Atlantic
+os_safe    : Florida_Atlantic
+tricode    : FAU
+mascot     : Owls
+primary    : [0,69,124]
+secondary  : [211,17,69]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 16
+sky        : 03
+sign       : C
+...
+---
+team       : Florida International
+os_safe    : Florida_International
+tricode    : FIU
+mascot     : Golden Panthers
+primary    : [0,45,98]
+secondary  : [197,150,12]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 16
+sky        : 03
+sign       : C
+...
+---
+team       : Florida State
+os_safe    : Florida_State
+tricode    : FSU
+mascot     : Seminoles
+primary    : [93,8,15]
+secondary  : [197,197,149]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 12
+sky        : 01
+sign       : C
+...
+---
+team       : Fresno State
+os_safe    : Fresno_State
+tricode    : FRES
+mascot     : Bulldogs
+primary    : [0,56,117]
+secondary  : [201,46,66]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 2
+sky        : 03
+sign       : C
+...
+---
+team       : Georgia
+os_safe    : Georgia
+tricode    : UGA
+mascot     : Bulldogs
+primary    : [170,6,4]
+secondary  : [144,144,144]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 11
+sky        : 03
+sign       : B
+...
+---
+team       : Georgia Southern
+os_safe    : Georgia_Southern
+tricode    : GASO
+mascot     : Eagles
+primary    : [0,46,92]
+secondary  : [162,127,61]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 11
+sky        : 03
+sign       : B
+...
+---
+team       : Georgia State
+os_safe    : Georgia_State
+tricode    : GAST
+mascot     : Panthers
+primary    : [16,94,170]
+secondary  : [216,35,61]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 11
+sky        : 03
+sign       : C
+...
+---
+team       : Georgia Tech
+os_safe    : Georgia_Tech
+tricode    : GT
+mascot     : Yellow Jackets
+primary    : [235,235,235]
+secondary  : [200,149,12]
+billboard   : 1
+neon       : 1
+conference : ACC
+matte      : 11
+sky        : 03
+sign       : B
+...
+---
+team       : Hawaii
+os_safe    : Hawaii
+tricode    : HAW
+mascot     : Warriors
+primary    : [0,63,48]
+secondary  : [219,219,219]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 16
+sky        : 03
+sign       : C
+...
+---
+team       : Houston
+os_safe    : Houston
+tricode    : HOU
+mascot     : Cougars
+primary    : [182,17,49]
+secondary  : [235,235,235]
+billboard   : 0
+neon       : 1
+conference : American
+matte      : 6
+sky        : 03
+sign       : C
+...
+---
+team       : Idaho
+os_safe    : Idaho
+tricode    : ID
+mascot     : Vandals
+primary    : [160,150,89]
+secondary  : [144,144,144]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 5
+sky        : 03
+sign       : C
+...
+---
+team       : Illinois
+os_safe    : Illinois
+tricode    : ILL
+mascot     : Fighting Illini
+primary    : [0,56,117]
+secondary  : [245,130,43]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 10
+sky        : 04
+sign       : C
+...
+---
+team       : Indiana
+os_safe    : Indiana
+tricode    : IND
+mascot     : Hoosiers
+primary    : [157,1,1]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 10
+sky        : 04
+sign       : B
+...
+---
+team       : Iowa
+os_safe    : Iowa
+tricode    : IOWA
+mascot     : Hawkeyes
+primary    : [243,176,0]
+secondary  : [0,0,0]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 9
+sky        : 04
+sign       : A
+...
+---
+team       : Iowa State
+os_safe    : Iowa_State
+tricode    : ISU
+mascot     : Cyclones
+primary    : [185,17,54]
+secondary  : [235,186,56]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 9
+sky        : 04
+sign       : C
+...
+---
+team       : Kansas
+os_safe    : Kansas
+tricode    : KU
+mascot     : Jayhawks
+primary    : [24,73,150]
+secondary  : [224,28,52]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 9
+sky        : 04
+sign       : A
+...
+---
+team       : Kansas State
+os_safe    : Kansas_State
+tricode    : KSU
+mascot     : Wildcats
+primary    : [57,11,100]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 9
+sky        : 04
+sign       : C
+...
+---
+team       : Kent State
+os_safe    : Kent_State
+tricode    : KENT
+mascot     : Golden Flashes
+primary    : [0,56,117]
+secondary  : [240,180,16]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : C
+...
+---
+team       : Kentucky
+os_safe    : Kentucky
+tricode    : UK
+mascot     : Wildcats
+primary    : [0,53,138]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 10
+sky        : 04
+sign       : C
+...
+---
+team       : Louisiana Tech
+os_safe    : Louisiana_Tech
+tricode    : LT
+mascot     : Bulldogs
+primary    : [0,85,165]
+secondary  : [219,30,39]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 12
+sky        : 01
+sign       : B
+...
+---
+team       : Louisville
+os_safe    : Louisville
+tricode    : LOU
+mascot     : Cardinals
+primary    : [168,0,0]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 10
+sky        : 04
+sign       : A
+...
+---
+team       : LSU
+os_safe    : LSU
+tricode    : LSU
+mascot     : Tigers
+primary    : [51,41,123]
+secondary  : [253,184,39]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 12
+sky        : 01
+sign       : A
+...
+---
+team       : Marshall
+os_safe    : Marshall
+tricode    : MRSH
+mascot     : Thundering Herd
+primary    : [8,94,48]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 13
+sky        : 04
+sign       : A
+...
+---
+team       : Maryland
+os_safe    : Maryland
+tricode    : MD
+mascot     : Terrapins
+primary    : [194,51,50]
+secondary  : [235,207,81]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : Massachusetts
+os_safe    : Massachusetts
+tricode    : MASS
+mascot     : Minutemen
+primary    : [169,5,52]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : Memphis
+os_safe    : Memphis
+tricode    : MEM
+mascot     : Tigers
+primary    : [11,34,109]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : American
+matte      : 14
+sky        : 01
+sign       : A
+...
+---
+team       : Miami FL
+os_safe    : Miami_FL
+tricode    : MIA
+mascot     : Hurricanes
+primary    : [204,51,0]
+secondary  : [0,71,37]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 16
+sky        : 03
+sign       : C
+...
+---
+team       : Miami OH
+os_safe    : Miami_OH
+tricode    : M-OH
+mascot     : RedHawks
+primary    : [168,0,0]
+secondary  : [168,169,173]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : A
+...
+---
+team       : Michigan
+os_safe    : Michigan
+tricode    : MICH
+mascot     : Wolverines
+primary    : [0,39,93]
+secondary  : [255,213,29]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 8
+sky        : 01
+sign       : B
+...
+---
+team       : Michigan State
+os_safe    : Michigan_State
+tricode    : MSU
+mascot     : Spartans
+primary    : [29,69,59]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 8
+sky        : 01
+sign       : A
+...
+---
+team       : Middle Tennessee
+os_safe    : Middle_Tennessee
+tricode    : MTSU
+mascot     : Blue Raiders
+primary    : [21,53,123]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 14
+sky        : 01
+sign       : B
+...
+---
+team       : Minnesota
+os_safe    : Minnesota
+tricode    : MINN
+mascot     : Golden Gophers
+primary    : [87,0,0]
+secondary  : [241,172,49]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 8
+sky        : 01
+sign       : A
+...
+---
+team       : Mississippi State
+os_safe    : Mississippi_State
+tricode    : MSST
+mascot     : Bulldogs
+primary    : [103,0,1]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 12
+sky        : 01
+sign       : C
+...
+---
+team       : Missouri
+os_safe    : Missouri
+tricode    : MIZZ
+mascot     : Tigers
+primary    : [13,13,13]
+secondary  : [205,156,0]
+billboard   : 1
+neon       : 1
+conference : SEC
+matte      : 9
+sky        : 04
+sign       : C
+...
+---
+team       : Navy
+os_safe    : Navy
+tricode    : NAVY
+mascot     : Midshipmen
+primary    : [4,27,71]
+secondary  : [230,202,87]
+billboard   : 0
+neon       : 1
+conference : Independent
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : Nebraska
+os_safe    : Nebraska
+tricode    : NEB
+mascot     : Cornhuskers
+primary    : [204,0,0]
+secondary  : [240,240,240]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 9
+sky        : 04
+sign       : A
+...
+---
+team       : Nevada
+os_safe    : Nevada
+tricode    : NEV
+mascot     : Wolfpack
+primary    : [16,42,92]
+secondary  : [235,235,235]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 4
+sky        : 01
+sign       : A
+...
+---
+team       : New Mexico
+os_safe    : New_Mexico
+tricode    : UNM
+mascot     : Lobos
+primary    : [182,17,49]
+secondary  : [240,240,240]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 4
+sky        : 01
+sign       : A
+...
+---
+team       : New Mexico State
+os_safe    : New_Mexico_State
+tricode    : NMSU
+mascot     : Aggies
+primary    : [130,23,26]
+secondary  : [240,240,240]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 4
+sky        : 01
+sign       : C
+...
+---
+team       : North Carolina
+os_safe    : North_Carolina
+tricode    : UNC
+mascot     : Tar Heels
+primary    : [125,179,226]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 14
+sky        : 01
+sign       : C
+...
+---
+team       : North Carolina State
+os_safe    : North_Carolina_State
+tricode    : NCST
+mascot     : Wolfpack
+primary    : [184,0,0]
+secondary  : [240,240,240]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 14
+sky        : 01
+sign       : A
+...
+---
+team       : North Texas
+os_safe    : North_Texas
+tricode    : UNT
+mascot     : Mean Green
+primary    : [16,136,72]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 6
+sky        : 03
+sign       : A
+...
+---
+team       : Northern Illinois
+os_safe    : Northern_Illinois
+tricode    : NIU
+mascot     : Huskies
+primary    : [181,0,40]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : B
+...
+---
+team       : Northwestern
+os_safe    : Northwestern
+tricode    : NW
+mascot     : Wildcats
+primary    : [57,57,150]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 10
+sky        : 04
+sign       : C
+...
+---
+team       : Notre Dame
+os_safe    : Notre_Dame
+tricode    : ND
+mascot     : Fighting Irish
+primary    : [0,50,99]
+secondary  : [155,132,73]
+billboard   : 0
+neon       : 1
+conference : Independent
+matte      : 10
+sky        : 04
+sign       : C
+...
+---
+team       : Ohio
+os_safe    : Ohio
+tricode    : OHIO
+mascot     : Bobcats
+primary    : [0,72,19]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : A
+...
+---
+team       : Ohio State
+os_safe    : Ohio_State
+tricode    : OSU
+mascot     : Buckeyes
+primary    : [182,17,49]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 10
+sky        : 04
+sign       : C
+...
+---
+team       : Oklahoma
+os_safe    : Oklahoma
+tricode    : OKLA
+mascot     : Sooners
+primary    : [120,0,13]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 7
+sky        : 03
+sign       : C
+...
+---
+team       : Oklahoma State
+os_safe    : Oklahoma_State
+tricode    : OKST
+mascot     : Cowboys
+primary    : [234,129,20]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 7
+sky        : 03
+sign       : B
+...
+---
+team       : Old Dominion
+os_safe    : Old_Dominion
+tricode    : ODU
+mascot     : Monarchs
+primary    : [0,47,92]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 14
+sky        : 01
+sign       : C
+...
+---
+team       : Ole Miss
+os_safe    : Ole_Miss
+tricode    : MISS
+mascot     : Rebels
+primary    : [24,42,72]
+secondary  : [210,32,44]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 12
+sky        : 01
+sign       : B
+...
+---
+team       : Oregon
+os_safe    : Oregon
+tricode    : ORE
+mascot     : Ducks
+primary    : [9,115,46]
+secondary  : [237,223,58]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 1
+sky        : 02
+sign       : C
+...
+---
+team       : Oregon State
+os_safe    : Oregon_State
+tricode    : ORST
+mascot     : Beavers
+primary    : [235,96,12]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 1
+sky        : 02
+sign       : B
+...
+---
+team       : Penn State
+os_safe    : Penn_State
+tricode    : PSU
+mascot     : Nittany Lions
+primary    : [23,38,75]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 15
+sky        : 03
+sign       : B
+...
+---
+team       : Pittsburgh
+os_safe    : Pittsburgh
+tricode    : PITT
+mascot     : Panthers
+primary    : [2,56,116]
+secondary  : [191,164,115]
+billboard   : 1
+neon       : 1
+conference : ACC
+matte      : 15
+sky        : 03
+sign       : B
+...
+---
+team       : Purdue
+os_safe    : Purdue
+tricode    : PUR
+mascot     : Boilermakers
+primary    : [221,202,150]
+secondary  : [27,30,37]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 10
+sky        : 04
+sign       : B
+...
+---
+team       : Rice
+os_safe    : Rice
+tricode    : RICE
+mascot     : Owls
+primary    : [16,63,126]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 6
+sky        : 03
+sign       : A
+...
+---
+team       : Rutgers
+os_safe    : Rutgers
+tricode    : RUTG
+mascot     : Scarlet Knights
+primary    : [192,0,0]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : San Diego State
+os_safe    : San_Diego_State
+tricode    : SDSU
+mascot     : Aztecs
+primary    : [192,0,0]
+secondary  : [185,134,45]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 3
+sky        : 03
+sign       : C
+...
+---
+team       : San Jose State
+os_safe    : San_Jose_State
+tricode    : SJSU
+mascot     : Spartans
+primary    : [21,113,181]
+secondary  : [248,162,45]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 2
+sky        : 03
+sign       : A
+...
+---
+team       : South Alabama
+os_safe    : South_Alabama
+tricode    : USA
+mascot     : Jaguars
+primary    : [20,38,114]
+secondary  : [200,0,0]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 12
+sky        : 01
+sign       : A
+...
+---
+team       : South Carolina
+os_safe    : South_Carolina
+tricode    : SCAR
+mascot     : Gamecocks
+primary    : [126,20,22]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 11
+sky        : 03
+sign       : A
+...
+---
+team       : South Florida
+os_safe    : South_Florida
+tricode    : USF
+mascot     : Bulls
+primary    : [0,61,34]
+secondary  : [175,155,93]
+billboard   : 0
+neon       : 1
+conference : American
+matte      : 16
+sky        : 03
+sign       : B
+...
+---
+team       : SMU
+os_safe    : SMU
+tricode    : SMU
+mascot     : Mustangs
+primary    : [181,1,3]
+secondary  : [0,19,81]
+billboard   : 0
+neon       : 1
+conference : American
+matte      : 6
+sky        : 03
+sign       : C
+...
+---
+team       : Southern Miss
+os_safe    : Southern Miss
+tricode    : USM
+mascot     : Golden Eagles
+primary    : [240,183,33]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 12
+sky        : 01
+sign       : B
+...
+---
+team       : Stanford
+os_safe    : Stanford
+tricode    : STAN
+mascot     : Cardinal
+primary    : [168,5,50]
+secondary  : [194,195,192]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 2
+sky        : 03
+sign       : A
+...
+---
+team       : Syracuse
+os_safe    : Syracuse
+tricode    : SYR
+mascot     : Orange
+primary    : [224,106,30]
+secondary  : [0,41,90]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 15
+sky        : 03
+sign       : B
+...
+---
+team       : TCU
+os_safe    : TCU
+tricode    : TCU
+mascot     : Horned Frogs
+primary    : [60,55,125]
+secondary  : [255,255,255]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 6
+sky        : 03
+sign       : A
+...
+---
+team       : Temple
+os_safe    : Temple
+tricode    : TEM
+mascot     : Owls
+primary    : [178,8,56]
+secondary  : [255,255,255]
+billboard   : 0
+neon       : 1
+conference : American
+matte      : 15
+sky        : 03
+sign       : C
+...
+---
+team       : Tennessee
+os_safe    : Tennessee
+tricode    : TENN
+mascot     : Volunteers
+primary    : [253,130,4]
+secondary  : [254,254,255]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 13
+sky        : 04
+sign       : A
+...
+---
+team       : Texas
+os_safe    : Texas
+tricode    : TEX
+mascot     : Longhorns
+primary    : [177,92,17]
+secondary  : [255,255,255]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 6
+sky        : 03
+sign       : A
+...
+---
+team       : "Texas A&M"
+os_safe    : Texas_AM
+tricode    : TAM
+mascot     : Aggies
+primary    : [92,0,37]
+secondary  : [191,191,191]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 6
+sky        : 03
+sign       : B
+...
+---
+team       : Texas State
+os_safe    : Texas_State
+tricode    : TXST
+mascot     : Bobcats
+primary    : [141,115,74]
+secondary  : [88,41,49]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 6
+sky        : 03
+sign       : A
+...
+---
+team       : Texas Tech
+os_safe    : Texas_Tech
+tricode    : TTU
+mascot     : Red Raiders
+primary    : [114,19,14]
+secondary  : [218,11,33]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 6
+sky        : 03
+sign       : B
+...
+---
+team       : Toledo
+os_safe    : Toledo
+tricode    : TOL
+mascot     : Rockets
+primary    : [0,42,121]
+secondary  : [227,185,12]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 10
+sky        : 04
+sign       : A
+...
+---
+team       : Troy
+os_safe    : Troy
+tricode    : TROY
+mascot     : Trojans
+primary    : [178,16,59]
+secondary  : [119,121,123]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 12
+sky        : 01
+sign       : A
+...
+---
+team       : Tulane
+os_safe    : Tulane
+tricode    : TULN
+mascot     : Green Wave
+primary    : [0,59,30]
+secondary  : [41,136,169]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 12
+sky        : 01
+sign       : C
+...
+---
+team       : Tulsa
+os_safe    : Tulsa
+tricode    : TLSA
+mascot     : Hurricane
+primary    : [44,41,113]
+secondary  : [215,49,2]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 7
+sky        : 03
+sign       : A
+...
+---
+team       : UCLA
+os_safe    : UCLA
+tricode    : UCLA
+mascot     : Bruins
+primary    : [0,125,195]
+secondary  : [253,184,39]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 3
+sky        : 03
+sign       : C
+...
+---
+team       : UL Lafayette
+os_safe    : UL_Lafayette
+tricode    : ULL
+mascot     : Ragin' Cajuns
+primary    : [146,8,19]
+secondary  : [181,183,186]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 12
+sky        : 01
+sign       : C
+...
+---
+team       : UL Monroe
+os_safe    : UL_Monroe
+tricode    : ULM
+mascot     : Warhawks
+primary    : [125,3,2]
+secondary  : [209,159,20]
+billboard   : 0
+neon       : 1
+conference : Sun Belt
+matte      : 12
+sky        : 01
+sign       : B
+...
+---
+team       : UNLV
+os_safe    : UNLV
+tricode    : UNLV
+mascot     : Rebels
+primary    : [191,29,47]
+secondary  : [209,210,212]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 4
+sky        : 01
+sign       : C
+...
+---
+team       : USC
+os_safe    : USC
+tricode    : USC
+mascot     : Trojans
+primary    : [93,1,6]
+secondary  : [253,184,39]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 3
+sky        : 03
+sign       : C
+...
+---
+team       : UT San Antonio
+os_safe    : UT_San_Antonio
+tricode    : UTSA
+mascot     : Roadrunners
+primary    : [243,116,33]
+secondary  : [255,255,255]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 6
+sky        : 03
+sign       : A
+...
+---
+team       : Utah
+os_safe    : Utah
+tricode    : UTAH
+mascot     : Utes
+primary    : [134,6,4]
+secondary  : [233,233,233]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 5
+sky        : 03
+sign       : A
+...
+---
+team       : Utah State
+os_safe    : Utah_State
+tricode    : USU
+mascot     : Aggies
+primary    : [0,50,99]
+secondary  : [210,210,210]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 5
+sky        : 03
+sign       : A
+...
+---
+team       : UTEP
+os_safe    : UTEP
+tricode    : UTEP
+mascot     : Miners
+primary    : [0,0,109]
+secondary  : [249,89,45]
+billboard   : 1
+neon       : 1
+conference : C-USA
+matte      : 6
+sky        : 03
+sign       : C
+...
+---
+team       : Vanderbilt
+os_safe    : Vanderbilt
+tricode    : VAN
+mascot     : Commodores
+primary    : [160,150,89]
+secondary  : [35,31,32]
+billboard   : 0
+neon       : 1
+conference : SEC
+matte      : 14
+sky        : 01
+sign       : A
+...
+---
+team       : Virginia
+os_safe    : Virginia
+tricode    : UVA
+mascot     : Cavaliers
+primary    : [0,14,57]
+secondary  : [234,73,13]
+billboard   : 1
+neon       : 1
+conference : ACC
+matte      : 14
+sky        : 01
+sign       : C
+...
+---
+team       : Virginia Tech
+os_safe    : Virginia_Tech
+tricode    : VT
+mascot     : Hokies
+primary    : [106,0,18]
+secondary  : [234,73,13]
+billboard   : 0
+neon       : 1
+conference : ACC
+matte      : 13
+sky        : 04
+sign       : B
+...
+---
+team       : Wake Forest
+os_safe    : Wake_Forest
+tricode    : WAKE
+mascot     : Demon Deacons
+primary    : [17,17,17]
+secondary  : [155,138,86]
+billboard   : 1
+neon       : 1
+conference : ACC
+matte      : 13
+sky        : 04
+sign       : C
+...
+---
+team       : Washington
+os_safe    : Washington
+tricode    : WASH
+mascot     : Huskies
+primary    : [37,40,125]
+secondary  : [240,207,126]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 1
+sky        : 02
+sign       : B
+...
+---
+team       : Washington State
+os_safe    : Washington_State
+tricode    : WSU
+mascot     : Cougars
+primary    : [117,8,29]
+secondary  : [189,189,189]
+billboard   : 0
+neon       : 1
+conference : Pac-12
+matte      : 1
+sky        : 02
+sign       : A
+...
+---
+team       : West Virginia
+os_safe    : West_Virginia
+tricode    : WVU
+mascot     : Mountaineers
+primary    : [25,22,139]
+secondary  : [235,209,31]
+billboard   : 0
+neon       : 1
+conference : Big 12
+matte      : 13
+sky        : 04
+sign       : B
+...
+---
+team       : Western Kentucky
+os_safe    : Western_Kentucky
+tricode    : WKY
+mascot     : Hilltoppers
+primary    : [125,0,1]
+secondary  : [236,236,236]
+billboard   : 0
+neon       : 1
+conference : C-USA
+matte      : 10
+sky        : 04
+sign       : A
+...
+---
+team       : Western Michigan
+os_safe    : Western_Michigan
+tricode    : WMU
+mascot     : Broncos
+primary    : [160,150,89]
+secondary  : [171,108,26]
+billboard   : 0
+neon       : 1
+conference : MAC
+matte      : 8
+sky        : 01
+sign       : B
+...
+---
+team       : Wisconsin
+os_safe    : Wisconsin
+tricode    : WIS
+mascot     : Badgers
+primary    : [185,0,12]
+secondary  : [255,255,255]
+billboard   : 0
+neon       : 1
+conference : Big Ten
+matte      : 8
+sky        : 01
+sign       : A
+...
+---
+team       : Wyoming
+os_safe    : Wyoming
+tricode    : WYO
+mascot     : Cowboys
+primary    : [80,48,27]
+secondary  : [226,182,41]
+billboard   : 0
+neon       : 1
+conference : MWC
+matte      : 5
+sky        : 03
+sign       : B
+...
